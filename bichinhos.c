@@ -101,5 +101,3 @@ int main() {
 	mostraBicho(b3);
 	return 0;
 }
-
-// o caio é gay
