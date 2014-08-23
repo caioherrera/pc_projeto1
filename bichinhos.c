@@ -1,8 +1,8 @@
 /*
-	criaBicho(nome, sexo): retorna um tBicho com o nome e sexo escolhidos, idade=0 e energia máxima na posição (0,0)
-	movimentaBicho(*bicho, direcao): altera a posição do bicho, baseado nos direcionais (W, A, S, D), caso tenha energia suficiente
+	criaBicho(nome, sexo): retorna um tBicho com o nome e sexo escolhidos, idade=0 e energia mÃ¡xima na posiÃ§Ã£o (0,0)
+	movimentaBicho(*bicho, direcao): altera a posiÃ§Ã£o do bicho, baseado nos direcionais (W, A, S, D), caso tenha energia suficiente
 	alimentaBicho(*bicho): alimenta o bicho, recuperando toda a sua energia	
-	mostraBicho(bicho): exibe todas as informações do bicho
+	mostraBicho(bicho): exibe todas as informaÃ§Ãµes do bicho
 */
 
 #include <stdio.h>
@@ -101,3 +101,5 @@ int main() {
 	mostraBicho(b3);
 	return 0;
 }
+
+// o caio Ã© gay
